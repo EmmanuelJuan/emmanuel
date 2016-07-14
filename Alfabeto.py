@@ -9,7 +9,7 @@ def main():
        x= input()
        print("Ingresa la potencia deseada: ")
        y = int(input())
-       if 7 < 0:
+       if y < 0:
            print("no valido")
        if y == 0:
         print("E")
